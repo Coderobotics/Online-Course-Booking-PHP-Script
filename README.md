@@ -17,6 +17,6 @@ Online Course Booking PHP script is a powerful tool designed to streamline the p
 <li>Course Categories</li>
 <li>Payment History</li>
 <li>Email Template</li>
-
+</ul>
 <b>More details and download link:</b></br>
 https://www.phpscriptsonline.com/product/online-course-booking-php-script/
